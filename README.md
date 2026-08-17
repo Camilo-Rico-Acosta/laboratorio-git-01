@@ -3,3 +3,8 @@
 Objetivo del laboratorio
 
 Aprender a utilizar GitHub para gestionar proyectos de software, realizar cambios mediante diferentes ramas y trabajar con el historial de versiones de un proyecto.
+
+Lo aprendido
+
+Durante este laboratorio estoy aprendiendo a utilizar repositorios,
+commits, ramas y Pull Requests en GitHub.
